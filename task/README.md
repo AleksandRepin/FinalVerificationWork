@@ -1,4 +1,4 @@
-1. This is task -> [diagram](ControlTest)
-2. [1](diagram.drawio.png)
+1. This is task -> [task](ControlTest)
+2. [diagram](diagram.drawio.png)
 3. 
 
